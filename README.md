@@ -55,9 +55,9 @@ I build things across the entire stack — from polished frontends to bare-metal
 
 <div align="center">
 
-![n0ahds's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n0ahds&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+![n0ahds's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahdasilva&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n0ahds&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahdasilva&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=n0ahds&theme=terminal&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
