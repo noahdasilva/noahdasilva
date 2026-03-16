@@ -18,7 +18,7 @@
 
 ```bash
 $ whoami
-> Noah Da Silva — full-stack dev, embedded systems tinkerer & photographer
+> noahdasilva — full-stack dev, embedded systems tinkerer & photographer
 ```
 
 I build things across the entire stack — from polished frontends to bare-metal systems code. I care about writing software that's fast, clean, and purposeful.
