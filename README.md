@@ -32,23 +32,21 @@ I build things across the entire stack — from polished frontends to bare-metal
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=f74c00)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=gray)
 ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00ADD8)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat-square&logo=svelte&logoColor=FF3E00)
+![SCSS](https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=CC6699)
 
 **Backend & Infra**
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57)
 
 ---
 
@@ -69,7 +67,7 @@ I build things across the entire stack — from polished frontends to bare-metal
 ## 🔭 Currently
 
 ```
-[*] Writing systems code in Rust & C
+[*] Writing embedded systems code in C++ & Assembly
 [*] Building full-stack apps with TypeScript + Go
 [*] Exploring low-level performance optimization
 [*] Open to collabs on interesting problems
