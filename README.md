@@ -2,15 +2,15 @@
 <div align="center">
 
 ```
-███╗   ██╗ ██████╗  █████╗ ██╗  ██╗██████╗ ███████╗
-████╗  ██║██╔═══██╗██╔══██╗██║  ██║██╔══██╗██╔════╝
-██╔██╗ ██║██║   ██║███████║███████║██║  ██║███████╗
-██║╚██╗██║██║   ██║██╔══██║██╔══██║██║  ██║╚════██║
-██║ ╚████║╚██████╔╝██║  ██║██║  ██║██████╔╝███████║
-╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
+███╗   ██╗ ██████╗  █████╗ ██╗  ██╗
+████╗  ██║██╔═══██╗██╔══██╗██║  ██║
+██╔██╗ ██║██║   ██║███████║███████║
+██║╚██╗██║██║   ██║██╔══██║██╔══██║
+██║ ╚████║╚██████╔╝██║  ██║██║  ██║
+╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Systems+Engineer;Building+things+that+matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Systems+Engineer;Photographer;Building+things+that+matter.)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```bash
 $ whoami
-> n0ahds — full-stack dev who likes going low-level
+> Noah Da Silva — full-stack dev, embedded systems tinkerer & photographer
 ```
 
 I build things across the entire stack — from polished frontends to bare-metal systems code. I care about writing software that's fast, clean, and purposeful.
@@ -55,11 +55,11 @@ I build things across the entire stack — from polished frontends to bare-metal
 
 <div align="center">
 
-![n0ahds's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahdasilva&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+![noahdasilva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahdasilva&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahdasilva&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=n0ahds&theme=terminal&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com?user=noahdasilva&theme=terminal&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
 
@@ -80,14 +80,14 @@ I build things across the entire stack — from polished frontends to bare-metal
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-n0ahds-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/n0ahds)
+[![GitHub](https://img.shields.io/badge/GitHub-noahdasilva-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/noahdasilva)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=n0ahds&style=flat-square&color=00ff41&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=noahdasilva&style=flat-square&color=00ff41&label=VISITORS" />
 </div>
 
 <div align="center">
