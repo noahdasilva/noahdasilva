@@ -82,6 +82,11 @@ I build things across the entire stack — from polished frontends to bare-metal
 
 [![GitHub](https://img.shields.io/badge/GitHub-noahdasilva-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/noahdasilva)
 
+[![Instagram](https://img.shields.io/badge/Instagram-noahdasilva__com-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/noahdasilva_com)
+
+[![Bluesky](https://img.shields.io/badge/Bluesky_-noahdasilva.com-000000?style=flat-square&logo=Bluesky&logoColor=white)](https://bsky.app/profile/noahdasilva.com)
+
+[![X](https://img.shields.io/badge/Twitter_/_X_-noahdasilva__com-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/noahdasilva_com)
 </div>
 
 ---
